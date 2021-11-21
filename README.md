@@ -11,7 +11,7 @@ This analysis can help inform the school district on future resource allocation.
 ## Results
 Removing the incorrect math and reading scores from the 9th grade class of Thomas High School produced the following results:
 
-![district summary before](Resources\district_summary_before.png)
+![district summary before](Resources/district_summary_before.png)
 ![district summary after](Resources\district_summary_after.png)
 - The total number students in consideration went from 39,170 to 38,709.
 The average math score reduced from 79.0 to 78.9.
