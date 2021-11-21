@@ -12,7 +12,7 @@ This analysis can help inform the school district on future resource allocation.
 Removing the incorrect math and reading scores from the 9th grade class of Thomas High School produced the following results:
 
 ![district summary before](Resources/district_summary_before.png)
-![district summary after](Resources\district_summary_after.png)
+![district summary after](Resources/district_summary_after.png)
 - The total number students in consideration went from 39,170 to 38,709.
 The average math score reduced from 79.0 to 78.9.
 The average reading score remained the same at 81.9.
@@ -21,8 +21,8 @@ The percentage of students passing reading dropped from 86% to 85.7%.
 The overall percentage of students passing both math and reading dropped from 65% to 64.9%.
 This information can be gleaned from the images above, with the latter image being the district summary after the 9th grade students from Thomas High School were removed.
 
-![Thomas high school before](Resources\thomas_high_school_summary_before.png)
-![Thomas high school after](Resources\thomas_high_school_summary_after.png)
+![Thomas high school before](Resources/thomas_high_school_summary_before.png)
+![Thomas high school after](Resources/thomas_high_school_summary_after.png)
 - The school summary was only changed for the Thomas High School row (naturally).
 The average math score dropped from 83.42 to 83.35.
 The average reading score actually rose from 83.85 to 83.90.
@@ -31,8 +31,8 @@ The percentage of students passing reading dropped from 97.31% to 97.02%.
 The percentage of students passing both reading and math dropped from 90.95% to 90.63%.
 This information can be observed from the images above with the former being the results before the academically dishonest results were removed.
 
-![top 5 schools before](Resources\top_5_before.png)
-![top 5 schools after](Resources\top_5_after.png)
+![top 5 schools before](Resources/top_5_before.png)
+![top 5 schools after](Resources/top_5_after.png)
 - Thomas High School occupied the number 2 position in the top 5 schools (based on the overall passing percentage) with the academically dishonest students results included.
 After the offending scores were removed Thomas High School still occupied the second position.
 
